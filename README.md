@@ -14,6 +14,7 @@ The game has four colored buttons (usually red, green, yellow, and blue) that li
 ### Links
 
 - Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Simon-Game.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Simon-Game/)
 
 ### Built with
 
